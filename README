@@ -1,8 +1,11 @@
-// NAME: Guanqun Ma
-// EMAIL: maguanqun0212@gmail.com
-// ID: 305331164
+// NAME: Guanqun Ma, Larry Qu
+// EMAIL: maguanqun0212@gmail.com, qularry1100@gmail.com
+// ID: 305331164, 105206585
 
 Included Files:
+lab3a.c: C/C++ source module that compiles cleanly with no errors or warnings).
+Makefile: build and run the deliverable program
+README: text file containing descriptions of each of the included files and any other information
 
 
 Sources:
